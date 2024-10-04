@@ -2,14 +2,14 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🔀 Merged [PR #32](https://github.com/Wiresense/frontend/pull/32) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-2. 🔀 Merged [PR #2](https://github.com/TheDanniCraft/tag-bumper/pull/2) in [TheDanniCraft/tag-bumper](https://github.com/TheDanniCraft/tag-bumper)
-3. 🔀 Merged [PR #60](https://github.com/TheDanniCraft/Portfolio/pull/60) in [TheDanniCraft/Portfolio](https://github.com/TheDanniCraft/Portfolio)
-4. 🔔 Watching [github/relative-time-element](https://github.com/github/relative-time-element)
-5. 🔔 Watching [angus-c/just](https://github.com/angus-c/just)
-6. 🔀 Merged [PR #7](https://github.com/TheDanniCraft/swatch-studio/pull/7) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
-7. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-09-09` in [TheDanniCraft/Pixcurate](https://github.com/TheDanniCraft/Pixcurate)
-8. 🔀 Merged [PR #5](https://github.com/TheDanniCraft/Pixcurate/pull/5) in [TheDanniCraft/Pixcurate](https://github.com/TheDanniCraft/Pixcurate)
-9. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-09-09` in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
-10. 🔀 Merged [PR #5](https://github.com/TheDanniCraft/swatch-studio/pull/5) in [TheDanniCraft/swatch-studio](https://github.com/TheDanniCraft/swatch-studio)
+1. ❌ Closed an issue [#3](https://github.com/yue-software-development/Ponyta-day/issues/3) in [yue-software-development/Ponyta-day](https://github.com/yue-software-development/Ponyta-day)
+2. 🆕 Opened an issue [#4](https://github.com/yue-software-development/Ponyta-day/issues/4) in [yue-software-development/Ponyta-day](https://github.com/yue-software-development/Ponyta-day)
+3. 🆕 Opened an issue [#3](https://github.com/yue-software-development/Ponyta-day/issues/3) in [yue-software-development/Ponyta-day](https://github.com/yue-software-development/Ponyta-day)
+4. 🆕 Opened an issue [#2](https://github.com/yue-software-development/Ponyta-day/issues/2) in [yue-software-development/Ponyta-day](https://github.com/yue-software-development/Ponyta-day)
+5. 🆕 Opened an issue [#1](https://github.com/yue-software-development/Ponyta-day/issues/1) in [yue-software-development/Ponyta-day](https://github.com/yue-software-development/Ponyta-day)
+6. ➕ Created a new branch [`SCRUM-7-test`](https://github.com/yue-software-development/Ponyta-day/tree/SCRUM-7-test) in [yue-software-development/Ponyta-day](https://github.com/yue-software-development/Ponyta-day)
+7. ➕ Created a new branch [`main`](https://github.com/yue-software-development/Ponyta-day/tree/main) in [yue-software-development/Ponyta-day](https://github.com/yue-software-development/Ponyta-day)
+8. 🎉 Created a new repository [yue-software-development/-](https://github.com/yue-software-development/-)
+9. 📝 Committed to a private repo
+10. 🌍 Made repository [yongyuebj4/Mybooklist](https://github.com/yongyuebj4/Mybooklist) public
 <!--END_SECTION:activity-->
