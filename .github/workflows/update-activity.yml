@@ -13,7 +13,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update GitHub Activity
-        uses: TheDanniCraft/activity-log@v1
+        uses: yongyuebj4/activity-log@v1
         with:
           GITHUB_USERNAME: "yongyuebj4"
           GITHUB_TOKEN: ${{ secrets.ACTIONSECRET_2024 }} # Ensure this matches the secret name in repository settings
+          TARGET REPOS: " [yue-software-development/ponyta2-day]"
+          EVENT_LIMIT: '100'
